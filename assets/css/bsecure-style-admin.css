@@ -1,0 +1,61 @@
+.thickbox-wrapper
+{
+    height: auto !important;
+}
+.thickbox-wrapper #TB_ajaxContent
+{
+    width: 96% !important;
+    padding: 0 15px;
+    float: left;
+    display: block;
+    margin: 0;
+    height:auto !important;
+}
+.thickbox-wrapper .bsecure-deactivation-survey-form p
+{
+    margin:0;
+    padding:0;
+}
+.thickbox-wrapper .mainAjaxBox
+{
+    padding: 5px 0px 5px 0px;
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 1em 0;
+}
+.thickbox-wrapper .generalMainText
+{
+    font-weight: bold;
+    margin: 24px 0 20px 0 !important;
+    padding:0 !important;
+}
+.thickbox-wrapper .bSecureoptionsBoxes
+{
+    margin: 0 0 7px 0;
+}
+.thickbox-wrapper .bSecureRightSideBtns
+{
+    float: right;
+}
+.thickbox-wrapper .bsecure-modal__controls
+{
+    margin:30px 0 0 0;
+}
+.thickbox-wrapper #TB_title
+{
+    height: auto;
+    float: left;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.thickbox-wrapper #TB_ajaxWindowTitle 
+{
+    font-size: 18px;
+    padding: 10px;
+    height: auto;
+}
+.thickbox-wrapper #TB_closeWindowButton
+{
+    position: relative;
+}
